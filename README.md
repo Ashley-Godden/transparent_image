@@ -6,7 +6,7 @@ This software should work on most image types that support transparency, such as
 
 ## Compatability
 - [X] Linux
-- [ ] Windows
+- [X] Windows
 - [ ] MacOS
 
 
